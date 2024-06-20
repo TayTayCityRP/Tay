@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bravado Air Defense Security Officers</title>
+    <style>
+        body {
+            background-color: #000; /* Black background */
+            color: #fff; /* White text for contrast */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #d32f2f; /* Red background */
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #1976d2; /* Blue background */
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff; /* White text */
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333; /* Darker background for footer */
+            color: #ccc; /* Lighter text for footer */
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bravado Air Defense Security Officers</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <h2>Welcome to Bravado Air Defense</h2>
+        <p>
+            We are dedicated to providing top-notch security services to ensure the safety and protection of our airspace. 
+            Our highly trained security officers are equipped with the latest technology and expertise to handle any threats.
+        </p>
+        <h3>Our Services</h3>
+        <ul>
+            <li>24/7 Airspace Surveillance</li>
+            <li>Threat Detection and Neutralization</li>
+            <li>Advanced Radar Systems</li>
+            <li>Emergency Response Teams</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Bravado Air Defense Security Officers. All rights reserved.</p>
+    </footer>
+</body>
+</html>
